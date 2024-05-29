@@ -17,13 +17,13 @@ I will submit the following deliverables:
 
 # **Instructions**
 
-**Part 1(part_1_mars_news.ipynb):** Scrape Titles and Preview Text from Mars News
+**[Part 1](part_1_mars_news.ipynb):** Scrape Titles and Preview Text from Mars News
 
 Use automated browsing to visit the Mars news siteLinks to an external site.
 
 Inspect the page to identify which elements to scrape.
 
-**Part 2:** Scrape and Analyze Mars Weather Data
+**[Part 2](part_2_mars_news.ipynb):** Scrape and Analyze Mars Weather Data
 
 Use automated browsing to visit the Mars Temperature Data SiteLinks to an external site.
 
