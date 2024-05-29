@@ -15,8 +15,7 @@ I will submit the following deliverables:
 **Deliverable 2**: Scrape and analyze Mars weather data, which exists in a table.
 
 
-# **Instructions**
-## Project Breakdown
+# **Project Breakdown**
 
 ###[Part 1](part_1_mars_news.ipynb): Scrape Titles and Preview Text from Mars News (40 points)
 
