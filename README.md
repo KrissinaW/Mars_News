@@ -17,7 +17,7 @@ I will submit the following deliverables:
 
 # **Project Breakdown**
 
-###[Part 1](part_1_mars_news.ipynb): Scrape Titles and Preview Text from Mars News (40 points)
+### [Part 1](part_1_mars_news.ipynb): Scrape Titles and Preview Text from Mars News (40 points)
 
 - Automated browsing was implemented using Splinter to visit the Mars news site, and HTML code was extracted using Beautiful Soup. (10 points)
 - Titles and preview text of the news articles were scraped and extracted. (20 points)
