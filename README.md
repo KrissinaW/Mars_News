@@ -17,7 +17,7 @@ I will submit the following deliverables:
 
 # **Instructions**
 
-**Part 1:** Scrape Titles and Preview Text from Mars News
+**Part 1(part_1_mars_news.ipynb):** Scrape Titles and Preview Text from Mars News
 
 Use automated browsing to visit the Mars news siteLinks to an external site.
 
